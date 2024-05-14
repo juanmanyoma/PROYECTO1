@@ -49,6 +49,9 @@ El proyecto consta de las siguientes secciones principales:
 Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
 
 ## Despliegue
+https://prismatic-salmiakki-10c03d.netlify.app
+## Legal
+Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
 Para desplegar el proyecto en tu máquina local, sigue estos pasos:
 1. Clona este repositorio: git clone https://github.com/tuusuario/proyecto-awesome.git
 2. Navega a la carpeta del proyecto: cd proyecto-awesome
